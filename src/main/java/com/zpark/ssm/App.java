@@ -11,5 +11,8 @@ public class App {
         System.out.println("kkk");
 
         System.out.println("my git-project01");
+        
+        System.out.println("Test fetch from GitHub");
+        
     }
 }
