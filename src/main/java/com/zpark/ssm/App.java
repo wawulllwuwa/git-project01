@@ -5,5 +5,7 @@ public class App {
         System.out.println("q");
         System.out.println("w");
         System.out.println("e");
+
+        System.out.println("wakk");
     }
 }
