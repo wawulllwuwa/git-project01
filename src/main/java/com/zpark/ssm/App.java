@@ -6,6 +6,8 @@ public class App {
         System.out.println("w");
         System.out.println("e");
 
+        System.out.println("wakk");
+
         System.out.println("kkk");
     }
 }
